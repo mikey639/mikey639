@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikey639
 - 👀 I’m interested in computer sience. 
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on every computer sientists around the world.
+- 💞️ I’m looking to collaborate with every computer sientists around the world.
 
 - 📫 How to reach me 
 - 😄 Pronouns: He (male)
